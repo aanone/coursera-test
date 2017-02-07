@@ -53,6 +53,7 @@
 			margin-top:0;
 			padding:5px;
 			background-color:#d69799;
+      text-shadow: 1px 2px #888888;
 		}
 
 		#beef{
@@ -67,6 +68,7 @@
 			margin-top:0;
 			padding:5px;
 			background-color:#c34145;
+      text-shadow: 1px 2px #888888;
 		}
 
 		#sushi{
@@ -81,6 +83,7 @@
 			margin-top:0;
 			padding:5px;
 			background-color:#e5d09e;
+      text-shadow: 1px 2px #888888;
 		}
 
 		.row{
